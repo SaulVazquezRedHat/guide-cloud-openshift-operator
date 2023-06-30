@@ -1,0 +1,5 @@
+/home/saul/Desktop/Demo-S2I-OpenLiberty/Deploy-Getting-Started/guide-cloud-openshift-operator/finish/inventory/src/main/java/io/openliberty/guides/inventory/InventoryResource.java
+/home/saul/Desktop/Demo-S2I-OpenLiberty/Deploy-Getting-Started/guide-cloud-openshift-operator/finish/inventory/src/main/java/io/openliberty/guides/inventory/InventoryApplication.java
+/home/saul/Desktop/Demo-S2I-OpenLiberty/Deploy-Getting-Started/guide-cloud-openshift-operator/finish/inventory/src/main/java/io/openliberty/guides/inventory/InventoryManager.java
+/home/saul/Desktop/Demo-S2I-OpenLiberty/Deploy-Getting-Started/guide-cloud-openshift-operator/finish/inventory/src/main/java/io/openliberty/guides/inventory/health/InventoryReadinessCheck.java
+/home/saul/Desktop/Demo-S2I-OpenLiberty/Deploy-Getting-Started/guide-cloud-openshift-operator/finish/inventory/src/main/java/io/openliberty/guides/inventory/health/InventoryLivenessCheck.java
